@@ -10,3 +10,4 @@ BinPackParameters: false
 # make adding new members at the end less noisy in diffs
 BreakConstructorInitializersBeforeComma: true
 ConstructorInitializerAllOnOneLineOrOnePerLine: true
+BreakBeforeBraces: Allman
