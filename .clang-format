@@ -1,6 +1,6 @@
 # using clang-format version 5.0.0
 Language: Cpp
-BasedOnStyle: LLVM
+BasedOnStyle: Google
 
 AllowShortCaseLabelsOnASingleLine: true
 AllowShortFunctionsOnASingleLine: true
